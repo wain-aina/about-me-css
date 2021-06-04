@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  background-color: #90AFC5;
+
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+u {
+  text-decoration-style: dotted;
+}
+
+/*intro*/
+
+.indie {
+  height: 60%
+  width: 60%;
+  margin: 0 0 7% 30%;
+}
+
+.idiot {
+  padding-right: 30%;
+}
+
+/*history*/
+
+.history {
+  background-color: #B9B7BD;
+
+}
+
+.education {
+  margin: 5% 10% 7% 4%;
+}
+
+.employment {
+  margin: 7% 5% 10%;
+}
+
+.hack {
+  margin: 7% 5% 12%;
+}
+
+
+.left {
+  float: left;
+  padding-right: 3%
+}
+
+.right {
+  float: right;
+  padding-left: 3%
+
+}
